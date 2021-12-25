@@ -1,0 +1,6 @@
+Normalize:ApplyGain="1" PeakLevel="-0.5" RemoveDcOffset="1" StereoIndependent="0"
+Compressor:AttackTime="0.2" NoiseFloor="-40" Normalize="1" Ratio="2" ReleaseTime="1" Threshold="-15" UsePeak="0"
+FilterCurve:f0="100" f1="500" FilterLength="8191" InterpolateLin="0" InterpolationMethod="B-spline" v0="9" v1="0"
+FilterCurve:f0="4000" f1="5000" FilterLength="8191" InterpolateLin="0" InterpolationMethod="B-spline" v0="0" v1="9"
+Limiter:gain-L="0" gain-R="0" hold="10" makeup="No" thresh="-0.5" type="HardLimit"
+ExportWav:

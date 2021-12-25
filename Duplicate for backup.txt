@@ -1,0 +1,7 @@
+SelectAll:
+Duplicate:
+MuteTracks:
+ShiftDown:
+TrackMute:
+SelTrackStartToEnd:
+Macro_Podcast:

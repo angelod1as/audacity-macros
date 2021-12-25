@@ -1,0 +1,11 @@
+Save:
+GateDeRuído:attack="100" decay="300" gate-freq="0" hold="50" level-reduction="-24" mode="Gate" stereo-link="LinkStereo" threshold="-40"
+NoiseReduction:Use_Preset="<Factory Defaults>"
+TruncateSilence:Action="Truncate Detected Silence" Compress="50" Independent="0" Minimum="0.3" Threshold="-40" Truncate="0.3"
+Normalize:ApplyGain="1" PeakLevel="-0" RemoveDcOffset="1" StereoIndependent="0"
+Compressor:AttackTime="0.2" NoiseFloor="-40" Normalize="1" Ratio="2" ReleaseTime="1" Threshold="-5" UsePeak="0"
+FilterCurve:f0="20" f1="98.323265" f2="234.18214" f3="500" f4="997.72628" f5="2945.5193" f6="22050" FilterLength="8191" InterpolateLin="0" InterpolationMethod="B-spline" v0="-21.619049" v1="0.095237732" v2="-1.8095245" v3="0" v4="-0.28571701" v5="3.5238094" v6="5.4285717"
+BassAndTreble:Bass="5" Gain="0" Link_Sliders="0" Treble="0"
+Limitador:gain-L="0" gain-R="0" hold="10" makeup="No" thresh="-0.1" type="HardLimit"
+ExportWav:
+Save:
